@@ -1,10 +1,10 @@
 ---
-title: "Paper Title Number 4"
+title: "A novel random-interval hybrid reliability analysis method combining active learning Kriging and two-phase subset simulation"
 collection: publications
 permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
+date: 2024-04-11
+venue: 'Structures'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
