@@ -6,8 +6,11 @@ author_profile: true
 ---
 
 Zhao Zhao, Zhao-Hui Lu*, Yan-Gang Zhao, Teng-Fei Xu, Yan-Fei Zhang. A novel random-interval hybrid reliability analysis method combining active learning Kriging and two-phase subset simulation. Structures. 2024, 63: 106383.
+
 Zhao Zhao, Zhao-Hui Lu*, Yan-Gang Zhao. Conditional simulation of stationary non-Gaussian processes based on unified Hermite polynomial model. Probabilistic Engineering Mechanics. 2024, 76: 103609.
+
 Zhao Zhao, Zhao-Hui Lu*, Yan-Gang Zhao. P-AK-MCS: Parallel AK-MCS method for structural reliability analysis. Probabilistic Engineering Mechanics. 2024, 75: 103573.
+
 Zhao Zhao, Ying Min Low*. Extreme value analysis of high-dimensional Gaussian vector processes. Journal of Sound and Vibration. 2023, 567: 118067.
 Pei-Pei Li, Yi Zhang*, Yan-Gang Zhao, Zhao Zhao, Enjian Cai. An information reuse-based method for reliability updating. Reliability Engineering and System Safety. 2023, 239: 109536.
 Zhao Zhao, Zhao-Hui Lu*, Yan-Gang Zhao. A Kriging-assisted two-stage adaptive radial-based importance sampling method for random-interval hybrid reliability analysis. Structural and Multidisciplinary Optimization. 2023, 66:136.
