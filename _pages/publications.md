@@ -14,3 +14,5 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+Zhao-Hui Lu, Zhao Zhao, Xuan-Yi Zhang*, Chun-Qing Li, Xiao-Wen Ji, Yan-Gang Zhao. Simulating stationary non-Gaussian process based on unified Hermite polynomial model. Journal of Engineering Mechanics. 2020, 146(7): 04020067.
