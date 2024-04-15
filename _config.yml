@@ -21,7 +21,7 @@ repository               : "zhaozhao23/zhaozhao23.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Photo_visa.jpg"
+  avatar           : "Photo_visa.png"
   name             : "Zhao Zhao(赵昭)"
   pronouns         : # example: "she/her"  
   bio              : "academicpages"
