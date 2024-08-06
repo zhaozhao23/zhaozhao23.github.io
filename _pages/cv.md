@@ -43,4 +43,4 @@ Teaching
   
 Service and leadership
 ======
-Reviewers for several academic journals, including: Reliability Engineering & System Safety, Computer Methods in Applied Mechanics and Engineering, Structural and Multidisciplinary Optimization, Journal of Engineering Mechanics, Journal of Aerospace Engineering, Journal of Risk and Uncertainty in Engineering Systems, Part B: Mechanical Engineering, Computer Modeling in Engineering & Sciences.
+Reviewers for several academic journals, including: Reliability Engineering & System Safety, Computer Methods in Applied Mechanics and Engineering, Structural and Multidisciplinary Optimization, ASCE Journal of Engineering Mechanics, ASCE Journal of Aerospace Engineering, ASCE-ASME Journal of Risk and Uncertainty in Engineering Systems, Part B: Mechanical Engineering, etc.
