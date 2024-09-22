@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Zhao Zhao/Personal Homepage"
+title                    : "Zhao Zhao"
 title_separator          : "-"
 name                     : &name "Zhao Zhao"
 description              : &description "Postdoctoral Fellow at the University of Michigan"
@@ -22,9 +22,9 @@ repository               : "zhaozhao23/zhaozhao23.github.io"
 author:
   # Biographic information
   avatar           : "Photo.png"
-  name             : "Zhao Zhao(赵昭)"
+  name             : "Zhao Zhao 赵昭"
   pronouns         : # example: "she/her"  
-  bio              : "academicpages"
+  bio              : "Research Fellow"
   location         : "Dearborn, USA"
   employer         : "University of Michigan-Dearborn"
   uri              : # URL
